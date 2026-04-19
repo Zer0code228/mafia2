@@ -61,6 +61,7 @@
             <li><a href="#about">Об игре</a></li>
             <li><a href="#characters">Персонажи</a></li>
             <li><a href="#dlc">Дополнения</a></li>
+            <li><a href="#skreen">Скриншоты</a></li>
         </ul>
     </nav>
     <main>
@@ -105,6 +106,7 @@
             </ul>
         </section>
         <section>
+            <section id="skreen">
             <h2>Скриншоты</h2>
             <img src="вито на улице.jpg" alt="Скриншот 1: Вито Скалетта на улицах Эмпайр‑Бэя" width="300">
             <img src="вито зимой.webp" alt="Скриншот 2: Зимняя сцена в городе" width="300">
